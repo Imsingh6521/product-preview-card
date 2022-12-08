@@ -1,0 +1,79 @@
+
+body {
+  overflow: hidden;
+  box-sizing: border-box;
+}
+
+.img-text {
+  margin: 10% auto;
+  background-color: white;
+  width: 800px;
+  height: 600px;
+  border-radius: 12px;
+}
+
+img {
+  width: 400px;
+  border-radius: 12px 0 0 12px;
+}
+
+.per {
+  position: relative;
+  display: inline-block;
+  left: 5%;
+  bottom: 40%;
+  font-family: "Montserrat";
+  font-weight: 500;
+  color: hsl(228, 12%, 48%);
+}
+.para2 {
+  color: hsl(212, 21%, 14%);
+  font-size: 2.3rem;
+  width: 260px;
+  font-family: 'Fraunces';
+  font-weight: 700;
+  position: relative;
+  left: 55.5%;
+  bottom: 84.5%;
+  line-height: 1;
+}
+.para3 {
+  color: hsl(228, 12%, 48%);
+  font-family: "Montserrat";
+  font-weight: 500;
+  width: 280px;
+  position: relative;
+  bottom: 83%;
+  left: 55.5%;
+  line-height: 1.8;
+  font-size: 16px;
+}
+.new-price {
+  font-family: "Fraunces";
+  font-weight: 700;
+  font-size: 2.3rem;
+  color: hsl(158, 36%, 37%);
+  position: relative;
+  bottom: 80%;
+  left: 55.5%;
+}
+.pre-price {
+  color: hsl(228, 12%, 48%);
+  font-family: "Montserrat";
+  font-weight: 500;
+  font-size: 16px;
+  position: relative;
+  bottom: 91%;
+  left: 77%;
+}
+.button {
+  position: relative;
+  bottom: 77%;
+  left: 47.5%;
+  width: 17rem;
+  height: 3.6rem;
+}
+
+.trolly-img {
+  width: 8%;
+}
